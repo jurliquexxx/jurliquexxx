@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🔭 I’m currently working on bioinfomatics.
+- 🔭 I’m currently working on bioinformatics.
 - 🌱 I’m currently learning python and R.
 - 👯 I’m looking to collaborate on RNA sequencing.
 - 🤔 I’m looking for help with bioinfomatics.
